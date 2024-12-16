@@ -64,7 +64,7 @@ const data = [
       "custId": "C003",
       "name": "Alice Johnson",
       "amt": "123.00",
-      "product": "Peaker",
+      "product": "Speaker",
       "transactionId": "T008",
       "transactionDt": "12/08/2023"
   },
@@ -128,7 +128,7 @@ const data = [
       "custId": "C001",
       "name": "John Doe",
       "amt": "132.66",
-      "product": "Peaker",
+      "product": "Speaker",
       "transactionId": "T016",
       "transactionDt": "12/16/2023"
   },
@@ -192,7 +192,7 @@ const data = [
       "custId": "C004",
       "name": "Erick Jensen",
       "amt": "169.33",
-      "product": "Peaker",
+      "product": "Speaker",
       "transactionId": "T024",
       "transactionDt": "12/24/2023"
   },
@@ -256,7 +256,7 @@ const data = [
       "custId": "C002",
       "name": "Jane Smith",
       "amt": "157.00",
-      "product": "Peaker",
+      "product": "Speaker",
       "transactionId": "T032",
       "transactionDt": "01/01/2024"
   },
@@ -320,7 +320,7 @@ const data = [
       "custId": "C005",
       "name": "Bob Smith",
       "amt": "177.47",
-      "product": "Peaker",
+      "product": "Speaker",
       "transactionId": "T040",
       "transactionDt": "01/09/2024"
   },
@@ -384,7 +384,7 @@ const data = [
       "custId": "C003",
       "name": "Alice Johnson",
       "amt": "71.65",
-      "product": "Peaker",
+      "product": "Speaker",
       "transactionId": "T048",
       "transactionDt": "01/17/2024"
   },
@@ -448,7 +448,7 @@ const data = [
       "custId": "C001",
       "name": "John Doe",
       "amt": "20.00",
-      "product": "Peaker",
+      "product": "Speaker",
       "transactionId": "T056",
       "transactionDt": "01/25/2024"
   },
@@ -512,7 +512,7 @@ const data = [
       "custId": "C004",
       "name": "Erick Jensen",
       "amt": "34.15",
-      "product": "Peaker",
+      "product": "Speaker",
       "transactionId": "T064",
       "transactionDt": "02/02/2024"
   },
@@ -576,7 +576,7 @@ const data = [
       "custId": "C002",
       "name": "Jane Smith",
       "amt": "163.95",
-      "product": "Peaker",
+      "product": "Speaker",
       "transactionId": "T072",
       "transactionDt": "02/10/2024"
   },
@@ -640,7 +640,7 @@ const data = [
       "custId": "C005",
       "name": "Bob Smith",
       "amt": "193.00",
-      "product": "Peaker",
+      "product": "Speaker",
       "transactionId": "T080",
       "transactionDt": "02/18/2024"
   },
@@ -704,7 +704,7 @@ const data = [
       "custId": "C003",
       "name": "Alice Johnson",
       "amt": "13.99",
-      "product": "Peaker",
+      "product": "Speaker",
       "transactionId": "T088",
       "transactionDt": "02/26/2024"
   },
