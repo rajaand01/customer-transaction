@@ -6090,7 +6090,7 @@ module.exports = [
     {
         "custId": "C002",
         "name": "Jane Smith",
-        "amt": "60.00",
+        "amt": "-60.00",
         "product": "Headphone",
         "transactionId": "T762",
         "transactionDt": "01/01/2023"
